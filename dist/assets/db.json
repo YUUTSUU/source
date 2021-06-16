@@ -1,0 +1,498 @@
+{
+  "size": [
+    {
+      "value": "500",
+      "title": "40*50"
+    },
+    {
+      "value": "1000",
+      "title": "50*70"
+    },
+    {
+      "value": "1500",
+      "title": "70*70"
+    },
+    {
+      "value": "2000",
+      "title": "70*100"
+    }
+  ],
+  "material": [
+    {
+      "value": "1",
+      "descr": "Изящный, позволяет легко создавать текстуру, подходит для декоративных картин маслом.",
+      "title": "Холст из волокна"
+    },
+    {
+      "value": "1.2",
+      "descr": "Достаточно грубый и создает ощущение реальности, подходит для классических пейзажей, натюрмортов и портретов.",
+      "title": "Льняной холст"
+    },
+    {
+      "value": "1.5",
+      "descr": "Изящный, подходит для всех типов реалистичных портретов.",
+      "title": "Холст из натурального хлопка"
+    }
+  ],
+  "options": [
+    {
+      "value": "1000",
+      "title": "Покрытие арт-гелем"
+    },
+    {
+      "value": "2000",
+      "title": "Экспресс-изготовление"
+    },
+    {
+      "value": "500",
+      "title": "Доставка готовых работ "
+    }
+  ],
+  "styles": [
+    {
+      "src": "assets/img/styles-5.jpg",
+      "title": "Пастелью",
+      "link": "#pastel"
+    },
+    {
+      "src": "assets/img/styles-6.jpg",
+      "title": "Поп-арт",
+      "link": "#popart"
+    },
+    {
+      "src": "assets/img/styles-7.png",
+      "title": "Фотомозаика",
+      "link": "#mozaika"
+    },
+    {
+      "src": "assets/img/styles-8.jpg",
+      "title": "Шарж",
+      "link": "#sharj"
+    }
+  ],
+  "designer": [
+    {
+      "upload": {},
+      "name": "sdfs",
+      "phone": "32432",
+      "email": "yerzhan.taikeshev@gmail.com",
+      "message": "dsdfgs",
+      "id": 1
+    },
+    {
+      "upload": {},
+      "name": "rgf565",
+      "phone": "234",
+      "email": "cookie.jaar@mail.ru",
+      "message": "fg",
+      "id": 2
+    },
+    {
+      "upload": {},
+      "name": "аа",
+      "phone": "33",
+      "email": "yerzhan.taikeshev@gmail.com",
+      "message": "ппп",
+      "id": 3
+    },
+    {
+      "upload": {},
+      "id": 4
+    },
+    {
+      "upload": {},
+      "id": 5
+    },
+    {
+      "upload": {},
+      "name": "gs",
+      "phone": "32",
+      "email": "cookie.jaar@mail.ru",
+      "message": "n",
+      "id": 6
+    },
+    {
+      "upload": "function text() { [native code] }",
+      "name": "fbd",
+      "phone": "32",
+      "email": "cookie.jaar@mail.ru",
+      "message": "gs",
+      "id": 7
+    },
+    {
+      "upload": {},
+      "name": "card-1.png",
+      "phone": "3",
+      "email": "cookie.jaar@mail.ru",
+      "message": "",
+      "lastModified": "1622713963583",
+      "lastModifiedDate": "Thu Jun 03 2021 15:52:43 GMT+0600 (Восточный Казахстан)",
+      "webkitRelativePath": "",
+      "size": "364193",
+      "type": "image/png",
+      "arrayBuffer": "function arrayBuffer() { [native code] }",
+      "slice": "function slice() { [native code] }",
+      "stream": "function stream() { [native code] }",
+      "text": "function text() { [native code] }",
+      "id": 8
+    },
+    {
+      "upload": "[object Object]",
+      "name": "q",
+      "phone": "3",
+      "email": "cookie.jaar@mail.ru",
+      "message": "",
+      "id": 9
+    },
+    {
+      "upload": "function text() { [native code] }",
+      "name": "db",
+      "phone": "4",
+      "email": "cookie.jaar@mail.ru",
+      "message": "",
+      "id": 10
+    },
+    {
+      "upload": "[object Object]",
+      "name": "a",
+      "phone": "5",
+      "email": "cookie.jaar@mail.ru",
+      "message": "",
+      "id": 11
+    },
+    {
+      "upload": {},
+      "id": 12
+    },
+    {
+      "upload": {},
+      "id": 13
+    },
+    {
+      "upload": {},
+      "id": 14
+    },
+    {
+      "upload": {},
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "upload": {},
+      "id": 17
+    },
+    {
+      "upload": {},
+      "name": "лол",
+      "phone": "+7 (656) 565 65 65",
+      "email": "лолповао",
+      "message": "",
+      "id": 18
+    },
+    {
+      "upload": {},
+      "id": 19
+    },
+    {
+      "upload": {},
+      "id": 20
+    },
+    {
+      "upload": {},
+      "id": 21
+    },
+    {
+      "upload": {},
+      "id": 22
+    },
+    {
+      "upload": {},
+      "id": 23
+    },
+    {
+      "upload": {},
+      "id": 24
+    },
+    {
+      "upload": {},
+      "id": 25
+    },
+    {
+      "upload": {},
+      "id": 26
+    },
+    {
+      "upload": {},
+      "id": 27
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "material": "1",
+      "options": "1000",
+      "id": 28
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "1050",
+      "material": "1",
+      "options": "1000",
+      "promocode": "IWANTPOPART",
+      "id": 29
+    },
+    {
+      "upload": {},
+      "id": 30
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "2500",
+      "materialCoeff": "1",
+      "options": "2000",
+      "id": 31
+    },
+    {
+      "upload": {},
+      "size": "2000",
+      "sum": "3500",
+      "materialCoeff": "1.5",
+      "options": "2000",
+      "promocode": "IWANTPOPART",
+      "id": 32
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "2600",
+      "materialCoeff": "1.2",
+      "options": "2000",
+      "id": 33
+    },
+    {
+      "upload": {},
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "email": "cookie.jaar@mail.ru",
+      "message": "",
+      "id": 34
+    },
+    {
+      "upload": {},
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "email": "cookie.jaar@mail.ru",
+      "message": "",
+      "id": 35
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "2600",
+      "materialCoeff": "1.2",
+      "options": "2000",
+      "id": 36
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "1500",
+      "materialCoeff": "1",
+      "options": "1000",
+      "id": 37
+    },
+    {
+      "upload": {},
+      "size": "2000",
+      "sum": "5000",
+      "materialCoeff": "1.5",
+      "options": "2000",
+      "id": 38
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "1750",
+      "materialCoeff": "1",
+      "options": "2000",
+      "promocode": "IWANTPOPART",
+      "id": 39
+    },
+    {
+      "upload": {},
+      "size": "1000",
+      "sum": "2240",
+      "materialCoeff": "1.2",
+      "options": "2000",
+      "promocode": "IWANTPOPART",
+      "id": 40
+    },
+    {
+      "upload": {},
+      "size": "1000",
+      "sum": "2240",
+      "materialCoeff": "1.2",
+      "options": "2000",
+      "promocode": "IWANTPOPART",
+      "id": 41
+    },
+    {
+      "upload": {},
+      "size": "1000",
+      "sum": "3000",
+      "materialCoeff": "1",
+      "options": "2000",
+      "id": 42
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "2500",
+      "materialCoeff": "1",
+      "options": "2000",
+      "id": 43
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "1500",
+      "materialCoeff": "1",
+      "options": "1000",
+      "id": 44
+    },
+    {
+      "upload": {},
+      "size": "1000",
+      "sum": "3200",
+      "materialCoeff": "1.2",
+      "options": "2000",
+      "id": 45
+    },
+    {
+      "upload": {},
+      "size": "1000",
+      "sum": "3200",
+      "materialCoeff": "1.2",
+      "options": "2000",
+      "id": 46
+    },
+    {
+      "upload": {},
+      "size": "500",
+      "sum": "1500",
+      "materialCoeff": "1",
+      "options": "1000",
+      "id": 47
+    }
+  ],
+  "question": [
+    {
+      "name": "fdsf",
+      "phone": "2342",
+      "id": 1
+    },
+    {
+      "name": "ad",
+      "phone": "234",
+      "id": 2
+    },
+    {
+      "name": "d",
+      "phone": "43",
+      "id": 3
+    },
+    {
+      "name": "dnb",
+      "phone": "67",
+      "id": 4
+    },
+    {
+      "name": "v",
+      "phone": "1",
+      "id": 5
+    },
+    {
+      "name": "f",
+      "phone": "2",
+      "id": 6
+    },
+    {
+      "name": "r",
+      "phone": "3",
+      "id": 7
+    },
+    {
+      "name": "g",
+      "phone": "4",
+      "id": 8
+    },
+    {
+      "name": "t",
+      "phone": "5",
+      "id": 9
+    },
+    {
+      "upload": {},
+      "id": 10
+    },
+    {
+      "upload": {},
+      "id": 11
+    },
+    {
+      "name": "kkj",
+      "phone": "3235",
+      "id": 12
+    },
+    {
+      "name": "mn",
+      "phone": "2221",
+      "email": "",
+      "message": ",m",
+      "id": 13
+    },
+    {
+      "name": "ыапавпв",
+      "phone": "+7 (242) 534",
+      "id": 14
+    },
+    {
+      "name": "2342",
+      "phone": "+7 (242) 3",
+      "id": 15
+    },
+    {
+      "name": "d",
+      "phone": "+7 (324",
+      "id": 16
+    },
+    {
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "id": 17
+    },
+    {
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "id": 18
+    },
+    {
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "id": 19
+    },
+    {
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "id": 20
+    },
+    {
+      "name": "d",
+      "phone": "+7 (242) 3",
+      "id": 21
+    }
+  ]
+}

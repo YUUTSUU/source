@@ -65,7 +65,7 @@ const forms = (formsSelector, inputSelector, state) => {
       //сообщение <
 
       const formData = new FormData(item);
-
+  
       if (item.getAttribute('data-calc') === "state") {
         if (!state.size || !state.materialCoeff || !state.options) {
           statusImage.setAttribute("src", message.fail);

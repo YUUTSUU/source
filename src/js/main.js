@@ -54,5 +54,5 @@ window.addEventListener("DOMContentLoaded", () => {
 
   scrolling(".pageup");
 
-  drop();
+  drop("[name='upload']");
 });
